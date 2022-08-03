@@ -1,0 +1,25 @@
+2022.07.29 13:09:20 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\DocumentAuthentication\.metals\lsp.trace.json or C:\Users\Mima\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.29 13:09:31 INFO  logging to file F:\DocumentAuthentication\.metals\metals.log
+2022.07.29 13:09:31 INFO  Started: Metals version 0.11.7 in workspace 'F:\DocumentAuthentication' for client Visual Studio Code 1.60.0.
+2022.07.29 13:09:36 INFO  time: initialize in 5.51s
+2022.07.29 13:09:49 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.29 13:09:50 WARN  Build server is not auto-connectable.
+2022.07.29 13:09:50 WARN  no build tool detected in workspace 'F:\DocumentAuthentication'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Jul 29, 2022 1:10:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.07.30 23:18:49 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\DocumentAuthentication\.metals\lsp.trace.json or C:\Users\Mima\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.30 23:18:53 INFO  logging to file F:\DocumentAuthentication\.metals\metals.log
+2022.07.30 23:18:53 INFO  Started: Metals version 0.11.7 in workspace 'F:\DocumentAuthentication' for client Visual Studio Code 1.60.0.
+2022.07.30 23:18:55 INFO  time: initialize in 2.29s
+2022.07.30 23:19:03 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.30 23:19:03 WARN  Build server is not auto-connectable.
+2022.07.30 23:19:03 WARN  no build tool detected in workspace 'F:\DocumentAuthentication'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.31 01:23:04 INFO  shutting down Metals
+2022.07.31 13:51:39 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at f:\DocumentAuthentication\.metals\lsp.trace.json or C:\Users\Mima\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.31 13:51:57 INFO  logging to file F:\DocumentAuthentication\.metals\metals.log
+2022.07.31 13:51:57 INFO  Started: Metals version 0.11.7 in workspace 'F:\DocumentAuthentication' for client Visual Studio Code 1.60.0.
+2022.07.31 13:52:00 INFO  time: initialize in 3.39s
+2022.07.31 13:52:06 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.31 13:52:06 WARN  Build server is not auto-connectable.
+2022.07.31 13:52:06 WARN  no build tool detected in workspace 'F:\DocumentAuthentication'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.31 20:15:03 INFO  shutting down Metals
